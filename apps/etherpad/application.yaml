@@ -39,5 +39,5 @@ spec:
   placement:
     placementRef:
       kind: PlacementRule
-      name: ocp4-hyou-cluster
+      name: dev-cluster
 
